@@ -1,1 +1,1 @@
-# exercicios-banco-workbench
+# sql exerci
